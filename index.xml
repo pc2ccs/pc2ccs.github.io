@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on The PC&amp;sup2; CCS</title>
+    <link>https://pc2ccs.github.io/</link>
+    <description>Recent content in Home on The PC&amp;sup2; CCS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2019 21:10:52 +0100</lastBuildDate>
+    
+	<atom:link href="https://pc2ccs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Current Downloads</title>
+      <link>https://pc2ccs.github.io/pc2/</link>
+      <pubDate>Thu, 26 Mar 2020 18:36:38 -0700</pubDate>
+      
+      <guid>https://pc2ccs.github.io/pc2/</guid>
+      <description>TODO description here? content/pc2.md
+Download  The latest stable release PC&amp;amp;sup2; version is 9.6.0-5102, released on 04 January 2019.   Download stable PC&amp;amp;sup2; (version 9.6.0-5102)  The latest release candidate PC&amp;amp;sup2; version is 9.6.0-5102, released on 04 January 2019.   Download release candidate PC&amp;amp;sup2; (version 9.6.0-5102)  The latest nightly build PC&amp;amp;sup2; version is 9.7build-6126.develop, released on 22 March 2020.   Download nightly build PC&amp;amp;sup2; (version 9.7build-6126.develop) Documentation  The PC&amp;amp;sup2; documentation can also be downloaded.</description>
+    </item>
+    
+    <item>
+      <title>All builds</title>
+      <link>https://pc2ccs.github.io/all-builds/</link>
+      <pubDate>Sun, 15 Dec 2019 11:52:23 +0100</pubDate>
+      
+      <guid>https://pc2ccs.github.io/all-builds/</guid>
+      <description>Below you will find all the available builds for the PC² CCS. Most builds also have a .sha256 and .sha512 file, which can be used to validate the downloads.
+  Version 9.7build-6126   Build date 22 March 2020   Build time 21:09:09      Tool Size Downloads     PC&amp;amp;sup2; 22.96 MB  pc2-9.7build-6126.develop.zip (sha256, sha512)    PC&amp;amp;sup2; API Documentation 0.</description>
+    </item>
+    
+  </channel>
+</rss>

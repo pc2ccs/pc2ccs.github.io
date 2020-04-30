@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pc2ccs.github.io/</loc>
+    <lastmod>2019-11-12T21:10:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pc2ccs.github.io/pc2/</loc>
+    <lastmod>2020-03-26T18:36:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pc2ccs.github.io/all-builds/</loc>
+    <lastmod>2019-12-15T11:52:23+01:00</lastmod>
+  </url>
+  
+</urlset>
