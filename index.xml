@@ -13,12 +13,22 @@
     
     <item>
       <title>Current Downloads</title>
-      <link>https://pc2ccs.github.io/pc2/</link>
+      <link>https://pc2ccs.github.io/current/</link>
       <pubDate>Thu, 26 Mar 2020 18:36:38 -0700</pubDate>
       
-      <guid>https://pc2ccs.github.io/pc2/</guid>
+      <guid>https://pc2ccs.github.io/current/</guid>
       <description>NOTICE This public repository for the PC² Contest Control System is still under development. You&amp;rsquo;re welcome to look around, but until an official announcement is made (and this is notice removed), we do not recommend relying on the code published here. If you are interested in obtaining a copy of PC² for running a contest, please refer to the PC² home page.
   Latest stable release: the main public release.</description>
+    </item>
+    
+    <item>
+      <title>Previous Stable Downloads</title>
+      <link>https://pc2ccs.github.io/previous/</link>
+      <pubDate>Thu, 26 Mar 2020 18:36:38 -0700</pubDate>
+      
+      <guid>https://pc2ccs.github.io/previous/</guid>
+      <description>NOTICE These are provided to read old DBs of said versions, we strongly recommend that you use the latest stable release from the Current Downloads page.
+  Version 9.5.4-4663 &amp;nbsp; &amp;nbsp; (build date 04:39:38 on 26 September 2018)      PC&amp;amp;sup2; 20.67 MB  pc2-9.5.4-4663.zip    PC&amp;amp;sup2; API Documentation 0.29 MB  api-doc-9.5.4-4663.zip        Version 9.4.1-3850 &amp;nbsp; &amp;nbsp; (build date 02:58:32 on 24 January 2017)      PC&amp;amp;sup2; 20.</description>
     </item>
     
     <item>

@@ -8,7 +8,12 @@
   </url>
   
   <url>
-    <loc>https://pc2ccs.github.io/pc2/</loc>
+    <loc>https://pc2ccs.github.io/current/</loc>
+    <lastmod>2020-03-26T18:36:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pc2ccs.github.io/previous/</loc>
     <lastmod>2020-03-26T18:36:38-07:00</lastmod>
   </url>
   
