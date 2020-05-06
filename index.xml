@@ -17,7 +17,8 @@
       <pubDate>Thu, 26 Mar 2020 18:36:38 -0700</pubDate>
       
       <guid>https://pc2ccs.github.io/pc2/</guid>
-      <description>Latest stable release: the main public release. This release has been widely used around the world in many contests and is recommended for those who want the assurances of a stable, vetted system for running their contest.  Release Candidate: an advance look at the proposed next public release of PC&amp;sup2;. This release contains significant new features planned for upcoming public release. This release has been thoroughly tested, but is not yet guaranteed &#34;</description>
+      <description>NOTICE This public repository for the PC² Contest Control System is still under development. You&amp;rsquo;re welcome to look around, but until an official announcement is made (and this is notice removed), we do not recommend relying on the code published here. If you are interested in obtaining a copy of PC² for running a contest, please refer to the PC² home page.
+  Latest stable release: the main public release.</description>
     </item>
     
     <item>
@@ -26,8 +27,8 @@
       <pubDate>Sun, 15 Dec 2019 11:52:23 +0100</pubDate>
       
       <guid>https://pc2ccs.github.io/all-builds/</guid>
-      <description>Below you will find all the available builds for the PC² CCS. Most builds also have a .sha256 and .sha512 file, which can be used to validate the downloads.
-  Version 9.7build-6126 &amp;nbsp; &amp;nbsp; (build date 21:09:09 on 22 March 2020)      PC&amp;amp;sup2; 22.96 MB  pc2-9.7build-6126.develop.zip (sha256, sha512)    PC&amp;amp;sup2; API Documentation 0.3 MB  api-doc-9.7build-6126.develop.zip        Version 9.</description>
+      <description>NOTICE This public repository for the PC² Contest Control System is still under development. You&amp;rsquo;re welcome to look around, but until an official announcement is made (and this is notice removed), we do not recommend relying on the code published here. If you are interested in obtaining a copy of PC² for running a contest, please refer to the PC² home page.
+Below you will find all the available builds for the PC² CCS.</description>
     </item>
     
   </channel>
