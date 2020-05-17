@@ -41,5 +41,25 @@
 Below you will find all the available builds for the PC² CCS.</description>
     </item>
     
+    <item>
+      <title>A Bit of History</title>
+      <link>https://pc2ccs.github.io/history/</link>
+      <pubDate>Sun, 17 May 2020 01:09:41 +0000</pubDate>
+      
+      <guid>https://pc2ccs.github.io/history/</guid>
+      <description>This page could be titled &amp;ldquo;PC² &amp;ndash; the Early Years&amp;rdquo;. It covers some (certainly not all) of what happened during the first two decades of PC² development&amp;hellip;
+1988 September: Mary Richmond, Dave Bosley, Paul Meyers, and some other guy named Doug Lane make the mistake of accepting a Senior Project called PC² from Professor John Clevenger in the Computer Science Department at CSUS. That Lane guy still has no clue. Bliss is ignorance.</description>
+    </item>
+    
+    <item>
+      <title>Permission</title>
+      <link>https://pc2ccs.github.io/permission/</link>
+      <pubDate>Sun, 17 May 2020 01:09:41 +0000</pubDate>
+      
+      <guid>https://pc2ccs.github.io/permission/</guid>
+      <description>The legal use of PC² is governed by the Eclipse Public License v2.0.
+PC² was originally developed, and continues to be developed, by a community of volunteers according to a certain set of community principles and guidelines. One of those principles centers around the concept that we didn&amp;rsquo;t develop it to make money, but rather to provide tools for people who want to run programming contests. We have donated it to the open-source community in that same spirit.</description>
+    </item>
+    
   </channel>
 </rss>
