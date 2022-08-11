@@ -5,19 +5,14 @@
     <link>https://pc2ccs.github.io/</link>
     <description>Recent content in Home on The PC&amp;sup2; CCS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 01:09:41 +0000</lastBuildDate>
-    
-	<atom:link href="https://pc2ccs.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://pc2ccs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Current Downloads</title>
       <link>https://pc2ccs.github.io/current/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pc2ccs.github.io/current/</guid>
-      <description>Latest stable release: the main public release. This release has been widely used around the world in many contests and is recommended for those who want the assurances of a stable, vetted system for running their contest.  Release Candidate: an advance look at the proposed next public release of PC&amp;sup2;. This release contains significant new features planned for upcoming public release. This release has been thoroughly tested, but is not yet guaranteed &#34;</description>
+      <description>Latest stable release: the main public release. This release has been widely used around the world in many contests and is recommended for those who want the assurances of a stable, vetted system for running their contest. Release Candidate: an advance look at the proposed next public release of PC&amp;sup2;. This release contains significant new features planned for upcoming public release. This release has been thoroughly tested, but is not yet guaranteed &#34;</description>
     </item>
     
     <item>
@@ -27,7 +22,7 @@
       
       <guid>https://pc2ccs.github.io/previous/</guid>
       <description>NOTICE These are provided to read old DBs of said versions, we strongly recommend that you use the latest stable release from the Current Downloads page.
-  Version 9.6.0-5102 &amp;nbsp; &amp;nbsp; (build date 03:34:47 on 02 January 2019)      PC&amp;sup2; System  pc2-9.6.0-5102.zip (22.52 MB) (sha256, sha512)    PC&amp;sup2; System in tar.gz form  pc2-9.6.0-5102.tar.gz (21.9 MB) (sha256, sha512)    PC&amp;sup2; API Documentation  api-doc-9.</description>
+Version 9.6.0-5102 &amp;nbsp; &amp;nbsp; (build date 03:34:47 on 02 January 2019) PC&amp;sup2; System pc2-9.6.0-5102.zip (22.52 MB) (sha256, sha512) PC&amp;sup2; System in tar.gz form pc2-9.6.0-5102.tar.gz (21.9 MB) (sha256, sha512) PC&amp;sup2; API Documentation api-doc-9.6.0-5102.zip (0.29 MB) Version 9.5.4-4663 &amp;nbsp; &amp;nbsp; (build date 04:39:38 on 26 September 2018) PC&amp;sup2; System pc2-9.</description>
     </item>
     
     <item>
@@ -37,7 +32,7 @@
       
       <guid>https://pc2ccs.github.io/all-builds/</guid>
       <description>Below you will find all the available builds for the PC² CCS. Most builds also have a .sha256 and .sha512 file, which can be used to validate the downloads.
-  Version 9.8build-6302 &amp;nbsp; &amp;nbsp; (build date 18:49:57 on 04 August 2022)      PC&amp;sup2; System  pc2-9.8build-6302.develop.zip (57.97 MB) (sha256, sha512)    PC&amp;sup2; System in tar.gz form  pc2-9.8build-6302.develop.tar.gz (88.25 MB) (sha256, sha512)    PC&amp;sup2; API Documentation  api-doc-9.</description>
+Version 9.8build-6305 &amp;nbsp; &amp;nbsp; (build date 04:42:58 on 11 August 2022) PC&amp;sup2; System pc2-9.8build-6305.develop.zip (57.97 MB) (sha256, sha512) PC&amp;sup2; System in tar.gz form pc2-9.8build-6305.develop.tar.gz (88.25 MB) (sha256, sha512) PC&amp;sup2; API Documentation api-doc-9.8build-6305.develop.zip (0.31 MB) Version 9.8build-6302 &amp;nbsp; &amp;nbsp; (build date 18:49:57 on 04 August 2022) PC&amp;sup2; System pc2-9.</description>
     </item>
     
     <item>
